@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayush9454
 - 👀 I’m interested in seeing the new AI world
-- 🌱 I’m currently learning Python advance, Java script & kotlin 
+- 🌱 I’m currently learning C++, flutter and dart and machine learning
 - 💞️ I’m looking to collaborate on Integrating machine learning and AI into smartphone Applications
 - 📫 How to reach me - singhayush9454@gmail.com
 - 😄 Pronouns: Geek for a need
